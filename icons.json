@@ -1,7 +1,12 @@
 {
-  "name": "June 图标包",
-  "version": "1.0",
-  "icons": {
-    "108x108bb": "https://raw.githubusercontent.com/JuneY520/icon/refs/heads/main/img/108x108bb.png"
-  }
-}
+	"name": "狗蛋图标",
+	"description": "狗蛋图标订阅",
+	"icons": [
+		{
+			"name": "Loon",
+			"url": "https://raw.githubusercontent.com/JuneY520/icon/refs/heads/main/img/108x108bb.png"
+		},
+		{
+			"name": "1.1.1.1",
+			"url": "https://raw.githubusercontent.com/JuneY520/icon/refs/heads/main/img/108x108bb.png"
+		},
